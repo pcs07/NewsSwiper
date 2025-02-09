@@ -1,0 +1,30 @@
+{
+  "2025-02-09": [
+    {
+      "id": 1,
+      "title": "AI Breakthrough in Medical Research",
+      "description": "Scientists develop new AI model that predicts patient outcomes with 95% accuracy.",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557",
+      "category": "Technology",
+      "categoryIcon": "https://images.unsplash.com/photo-1611162616475-46b635cb6868"
+    },
+    {
+      "id": 2,
+      "title": "Global Climate Summit Results",
+      "description": "World leaders agree on ambitious new targets for reducing carbon emissions by 2030.",
+      "imageUrl": "https://images.unsplash.com/photo-1569163139599-0f4517e36f51",
+      "category": "Environment",
+      "categoryIcon": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0"
+    }
+  ],
+  "2025-02-08": [
+    {
+      "id": 1,
+      "title": "Space Tourism Takes Off",
+      "description": "First commercial space hotel announces opening date for 2026.",
+      "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa",
+      "category": "Space",
+      "categoryIcon": "https://images.unsplash.com/photo-1611162616475-46b635cb6868"
+    }
+  ]
+}
